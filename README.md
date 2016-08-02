@@ -24,30 +24,9 @@ Start your server with the `public` directory as your document root. If you are 
 
 * Guidance on [Creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 * Each issue you work on should be in its own branch. The branch should be named sensibly so that the issue can be identified e.g. `issue1`
-* Pull Requests should be opened against the Master branch of your own fork (not against 3ev/developer-test)
+* Pull Requests should be opened against the Master branch of your own fork **(not against 3ev/developer-test)**
 * Your Pull Request message should describe what has been fixed and include all the steps to test your work
-* Your Pull Request message should be formatted as follows:
-
-**Title**
->ISSUE#10 - fixed profile image
-
-**Message**
-
->This PR updates the avatar image for Bobby Child so that it is less terrifying.
->
->---
->
->**Testing**
->
->In a browser verify that the avatar image has been replaced with the new image and that the dimensions have remained the same.
->
->---
->
->**Deployment steps**
->
->Merge branch `issue10` into `master`
->
->Compile assets: `./bin/node_modules/gulp`
+* A template for Pull Request messages is included in `.github/PULL_REQUEST_TEMPLATE.md` and will automatically be used when opening a new Pull Request. Please follow this format with your own message.
 
 
 #Issues to fix
