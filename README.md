@@ -54,7 +54,7 @@ Start your server with the `public` directory as your document root. If you are 
 
 ###ISSUE#1
 
-Some of the text on the page looks a bit strange. Please fix it.
+Some of the text on the page looks a bit strange, for example we see these characters "â€™". Please fix it.
 
 ###ISSUE#2
 
