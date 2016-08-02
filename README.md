@@ -9,7 +9,7 @@ We have a built simple website that displays a list of TV episodes pulled from a
 * Fork this project to your own repository (https://help.github.com/articles/fork-a-repo/)
 * Install the dependencies and get the code running (there is some advice below)
 * Review the list of issues below. Read through each one and ensure you understand the problems before you dive into the code
-* Fix each issue as best you can. Each fix should be contained in its own branch and you should open a Pull Request for each one. Instructions for how to format your Pull Request are below.
+* Fix each issue as best you can. Each fix should be contained in its own branch and you should open a Pull Request *against your own fork/master* for each issue. Instructions for how to format your Pull Request are below.
 
 ###Running this code
 
