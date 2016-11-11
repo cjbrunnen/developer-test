@@ -32,15 +32,10 @@ Start your server with the `public` directory as your document root. If you are 
 #Issues to fix
 
 ###ISSUE#1
-
-Some of the text on the page looks a bit strange, for example we see these characters "â€™" in place of apostrophes. Please fix it.
-
-###ISSUE#2
-
 The episodes should be listed in order of their season and episode number. At the moment "Behind The Laughter - s11e22" is appearing first in the list
 
-###ISSUE#3
+###ISSUE#2
 Sometimes we see errors appear on the page such as `Uncaught exception 'GuzzleHttp\Exception\ServerException'`. Please show the user an error message such as "Sorry, there was an error. Please try again by reloading the page." and use one of the Bootstrap styles for displaying it.
 
-###ISSUE#4
-There are some visual differences between the design and the page as we see it in Chrome. Please correct the CSS so that the page matches the design exactly. You can find the design.png in the root of this project.
+###ISSUE#3
+There are some visual differences between the design and the page as we see it in Chrome. Please correct the CSS so that the page matches the design exactly. You can find the design.png in the root of this project. In particular, there are issues with the font colours, sizing and spacing.
