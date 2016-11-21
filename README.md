@@ -43,3 +43,6 @@ Sometimes we see errors appear on the page such as `Uncaught exception 'GuzzleHt
 
 ###ISSUE#3
 There are some visual differences between the design and the page as we see it in Chrome. Please correct the CSS so that the page matches the design exactly. You can find the design.png in the root of this project. In particular, there are issues with the font colours, sizing and spacing.
+
+###ISSUE#4
+Clicking on the thumbnail images displays a lovely popover tooltip. We would like to modify this functionality so only one tooltip can be displayed at a time. For example, if we click on an image to see a tooltip, clicking on a different image will close the first tooltip and show the new tooltip.
