@@ -1,2 +1,2 @@
-require('bootstrap')
-require('./setup/popover')()
+require('bootstrap');
+require('./setup/popover')();

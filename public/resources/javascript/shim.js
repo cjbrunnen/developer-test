@@ -1,11 +1,9 @@
 module.exports = {
-    'jquery': {
-        exports: 'jQuery'
+  'jquery': {
+    exports: 'jQuery'
+  }, 'bootstrap': {
+    depends: {
+      jquery: 'jQuery'
     }
-
-    , 'bootstrap': {
-        depends: {
-            jquery: 'jQuery'
-        }
-    }
-}
+  }
+};
